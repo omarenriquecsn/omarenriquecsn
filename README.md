@@ -30,7 +30,7 @@
 **Frameworks**: React, Node.js, Bootsrap
 **Herramientas**: Git, GitHub, Vs Code
 
-- ##📫 Contacto
+##📫 Contacto
 
 - **Email**: omarenriqueccs@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/omar-contreras-3b42ba80?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1p3zGSQjQs2F7RfHGKl09w%3D%3D
