@@ -1,46 +1,46 @@
-- # ¡Hola! soy Omar Contreras👋
-  Desarrollador web dedicado a JavaScript y React. Disfruto creando aplicaciones Web eficientes y faciles de usar.
-  Actualmento participo en el bootcamp de SOYHERRY ya cursando el segundo modulo.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" style="width:100%;"/>
 
-- ## 👀 Proyectos Destacados
-  **pagina de actividades favoritas o hobies** https://github.com/pi-rym/PM1-omarenriquecsn
-  Esta pagina tiene un formulario que te solicita el nombre de una actividad que te guste, una descripcion de esta actividad y
-  una url de una imagen relacionada con la actividad con esta informacion la pagina crea una CARD y la muestra en pantalla con estos datos
-  pudes ingresar tantas actividades como gustes y puedes eliminar la activida solo con tocar la CARD que desees eliminar
-  tecnologias:
-  - HTML
-  - CSS
-  - JavaScript
-  
+# 👋 ¡Hola! Soy Omar Contreras
 
-  **pagina de informacion de peliculas** https://github.com/pi-rym/PM2-omarenriquecsn
-  Esta pagina nos mustra informacion de peliculas alojadas en un servidor con la posibilidad de que el usuario pueda agregar peliculas a la base de datos
-  y darle valoraciones a las peliculas ya existentes
-  tecnologias, librerias y entorno de ejcución:
-  - HTML
-  - CSS
-  - Bootstrap
-  - Node.js
-  - Jquery
-  - React
+Soy un desarrollador web apasionado por crear aplicaciones eficientes, accesibles y centradas en el usuario. Actualmente estoy cursando el segundo módulo del bootcamp de **SoyHenry**, fortaleciendo mis habilidades con **JavaScript**, **React**, y tecnologías backend como **Node.js**. Me encanta resolver bugs, mejorar flujos de trabajo, y explorar soluciones creativas que eleven la experiencia del usuario.
 
-## Tecnologías y Herramientas
+---
 
-**Lenguajes**: JavaScript, HTML, CSS
-**Frameworks**: React, Node.js, Bootsrap
-**Herramientas**: Git, GitHub, Vs Code
+## 🚀 Proyectos Destacados
 
-## 📫 Contacto
+### 🧩 [Página de Actividades Favoritas](https://github.com/pi-rym/PM1-omarenriquecsn)  
+Formulario dinámico que permite ingresar actividades, verlas en tarjetas, y eliminarlas fácilmente con solo hacer clic.  
+**Tecnologías:** HTML, CSS, JavaScript
 
-- **Email**: omarenriqueccs@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/omar-contreras-3b42ba80?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1p3zGSQjQs2F7RfHGKl09w%3D%3D
-  
+### 🎬 [Gestor de Películas](https://github.com/pi-rym/PM2-omarenriquecsn)  
+Consume una API para mostrar películas, permitir valoraciones, y agregar nuevas entradas a la base de datos.  
+**Stack:** React, Bootstrap, Node.js, jQuery, HTML/CSS
 
-## Estadisticas de GitHub
-https://github.com/omarenriquecsn?tab=overview&from=2024-11-01&to=2024-11-26
+---
 
-## Actividades de Contribucion
+## 🛠️ Tecnologías y Herramientas
 
-Actualmente busco alguna actividad para contribuir
+**Lenguajes:** JavaScript, HTML, CSS  
+**Frameworks & Librerías:** React, Node.js, Bootstrap  
+**Herramientas:** Git, GitHub, VS Code
 
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarenriquecsn&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarenriquecsn&layout=compact&theme=radical)
+
+---
+
+## 📫 ¿Hablamos?
+
+- ✉️ omarenriqueccs@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/omarenriquecs)
+
+---
+
+## 🤝 En Búsqueda de Nuevas Oportunidades
+
+Estoy abierto a contribuir en proyectos colaborativos, especialmente donde pueda seguir aprendiendo y aportar con mis habilidades en desarrollo fullstack.
 
