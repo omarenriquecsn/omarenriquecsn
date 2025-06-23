@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" style="width:100%;"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" style="width:100%;" />
 
 # 👋 ¡Hola! Soy Omar Contreras
 
@@ -16,13 +16,38 @@ Formulario dinámico que permite ingresar actividades, verlas en tarjetas, y eli
 Consume una API para mostrar películas, permitir valoraciones, y agregar nuevas entradas a la base de datos.  
 **Stack:** React, Bootstrap, Node.js, jQuery, HTML/CSS
 
+### 🛒 [PujaYa Subastas](https://github.com/pi-rym/pujaya)  
+[![Proyecto Destacado](https://img.shields.io/badge/Destacado-Proyecto%20Fullstack-blueviolet?style=flat-square&logo=vercel)](https://www.frontend-pujaya.vercel.app)
+
+Plataforma de subastas en tiempo real con autenticación, sistema de membresías, pagos con Stripe y panel administrativo.  
+**Stack:** Next.js, NestJS, PostgreSQL, Firebase, Cloudinary, Stripe, Pusher, MapLibre, WebSockets, Render, Neon, Vercel
+
+**Mi rol:** Desarrollo fullstack · Coordinación · Backend (auth, WebSocket) · Frontend (perfil, membresía, admin) · Deploy
+
+#### 📷 Capturas del Proyecto
+
+- 🏠 Página de inicio  
+  ![Home](https://res.cloudinary.com/dl3cepnhr/image/upload/v1750639025/Captura_de_pantalla_2025-06-22_182052_kvnvxa.png)
+
+- 👤 Perfil de usuario  
+  ![Perfil](https://res.cloudinary.com/dl3cepnhr/image/upload/v1750639106/Captura_de_pantalla_2025-06-22_182315_bqgob6.png)
+
+- 💬 Chat en tiempo real  
+  ![Chat](https://res.cloudinary.com/dl3cepnhr/image/upload/v1750639106/Captura_de_pantalla_2025-06-22_182315_bqgob6.png)
+
+- 💳 Membresía premium  
+  ![Premium](https://res.cloudinary.com/dl3cepnhr/image/upload/v1750639106/Captura_de_pantalla_2025-06-22_182315_bqgob6.png)
+
+- 📦 Producto Subastado
+  ![Producto](https://res.cloudinary.com/dl3cepnhr/image/upload/v1750639104/Captura_de_pantalla_2025-06-22_183818_a4d5ge.png)
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
 **Lenguajes:** JavaScript, HTML, CSS  
-**Frameworks & Librerías:** React, Node.js, Bootstrap  
-**Herramientas:** Git, GitHub, VS Code
+**Frameworks & Librerías:** React, Next.js, Node.js, NestJS, Bootstrap, Tailwind CSS  
+**Herramientas y servicios:** Git, GitHub, Firebase, Cloudinary, Stripe, Render, Vercel, Neon, Pusher, WebSockets, MapLibre
 
 ---
 
@@ -43,4 +68,6 @@ Consume una API para mostrar películas, permitir valoraciones, y agregar nuevas
 ## 🤝 En Búsqueda de Nuevas Oportunidades
 
 Estoy abierto a contribuir en proyectos colaborativos, especialmente donde pueda seguir aprendiendo y aportar con mis habilidades en desarrollo fullstack.
+
+---
 
