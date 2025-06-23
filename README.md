@@ -16,7 +16,7 @@ Formulario dinámico que permite ingresar actividades, verlas en tarjetas, y eli
 Consume una API para mostrar películas, permitir valoraciones, y agregar nuevas entradas a la base de datos.  
 **Stack:** React, Bootstrap, Node.js, jQuery, HTML/CSS
 
-### 🛒 [PujaYa Subastas](https://github.com/pi-rym/pujaya)  
+### 🛒 [PujaYa Subastas](https://github.com/pujaya)  
 [![Proyecto Destacado](https://img.shields.io/badge/Destacado-Proyecto%20Fullstack-blueviolet?style=flat-square&logo=vercel)](https://www.frontend-pujaya.vercel.app)
 
 Plataforma de subastas en tiempo real con autenticación, sistema de membresías, pagos con Stripe y panel administrativo.  
