@@ -29,21 +29,7 @@ Plataforma de subastas en tiempo real con autenticación, sistema de membresías
 - 🏠 Página de inicio  
   ![Home](https://res.cloudinary.com/dl3cepnhr/image/upload/v1750639025/Captura_de_pantalla_2025-06-22_182052_kvnvxa.png)
 
-- 👤 Perfil de usuario  
-  ![Perfil](https://res.cloudinary.com/dl3cepnhr/image/upload/v1750639106/Captura_de_pantalla_2025-06-22_182315_bqgob6.png)
 
-- 💬 Chat en tiempo real  
-  ![Chat](https://res.cloudinary.com/dl3cepnhr/image/upload/v1750639105/Captura_de_pantalla_2025-06-22_182334_xzgvas.png)
-
-- 💳 Membresía premium  
-  ![Premium](https://res.cloudinary.com/dl3cepnhr/image/upload/v1750639105/Captura_de_pantalla_2025-06-22_183445_hwgssj.png)
-
-- 📦 Producto Subastado
-  ![Producto](https://res.cloudinary.com/dl3cepnhr/image/upload/v1750639104/Captura_de_pantalla_2025-06-22_183818_a4d5ge.png)
-
----
-
-## 🛠️ Tecnologías y Herramientas
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes
