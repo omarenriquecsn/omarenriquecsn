@@ -9,7 +9,7 @@ Soy un desarrollador web apasionado por crear aplicaciones eficientes, accesible
 
 ## ![Wave Badge](https://img.shields.io/badge/Proyectos🚀-Destacados-gray?logo=wave&logoColor=black) Proyectos Destacados
 
-### ![Puzzle Badge](https://img.shields.io/badge/🧩-Modularidad-gray?logo=none&logoColor=black) [<h2>Página de Actividades Favoritas</h2>](https://github.com/pi-rym/PM1-omarenriquecsn)  
+### ![Puzzle Badge](https://img.shields.io/badge/🧩-Modularidad-gray?logo=none&logoColor=black) [Página de Actividades Favoritas](https://github.com/pi-rym/PM1-omarenriquecsn)  
 Formulario dinámico que permite ingresar actividades, verlas en tarjetas, y eliminarlas fácilmente con solo hacer clic.  
 **Tecnologías:** HTML, CSS, JavaScript
 
