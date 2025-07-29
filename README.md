@@ -25,13 +25,17 @@ Plataforma de subastas en tiempo real con autenticación, sistema de membresías
 
 **Mi rol:** Desarrollo fullstack · Coordinación · Backend (auth, WebSocket) · Frontend (perfil, membresía, admin) · Deploy
 
-#### 📷 Capturas del Proyecto
+#### ![Camera Badge](https://img.shields.io/badge/📷-Fotografía-gray?logo=none&logoColor=black)
 
-- 🏠 Página de inicio  
+ Capturas del Proyecto
+
+- ![Home Badge](https://img.shields.io/badge/🏠-Inicio-gray?logo=none&logoColor=black)
+ Página de inicio  
   ![Home](https://res.cloudinary.com/dl3cepnhr/image/upload/v1750639025/Captura_de_pantalla_2025-06-22_182052_kvnvxa.png)
 
 
-## 🛠️ Tecnologías y Herramientas
+## ![Tools Badge](https://img.shields.io/badge/🛠️-Herramientas-gray?logo=none&logoColor=black)
+ Tecnologías y Herramientas
 ![habilidades](./assets/habilidades.png) 
 
 ### Lenguajes
@@ -48,23 +52,19 @@ Plataforma de subastas en tiempo real con autenticación, sistema de membresías
 
 ---
 
-## 📊 GitHub Stats
+## ![Chart Badge](https://img.shields.io/badge/📊-Dashboard-gray?logo=none&logoColor=black)
+ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarenriquecsn&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarenriquecsn&layout=compact&theme=dark)
 
 ---
 
-## 📫 ¿Hablamos?
+## ![Mail Badge](https://img.shields.io/badge/📫-Contacto-gray?logo=none&logoColor=black)
+ ¿Hablamos?
 
 - ✉️ omarenriqueccs@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/omarenriquecs)
 
----
 
-## 🤝 En Búsqueda de Nuevas Oportunidades
-
-Estoy abierto a contribuir en proyectos colaborativos, especialmente donde pueda seguir aprendiendo y aportar con mis habilidades en desarrollo fullstack.
-
----
 
