@@ -39,16 +39,37 @@ Plataforma de subastas en tiempo real con autenticación, sistema de membresías
 ![habilidades](./assets/habilidades.png) 
 
 ### Lenguajes
-
+![JavaScript](https://img.shields.io/badge/JavaScript-Lenguaje-gray?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Tipado-gray?logo=typescript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-gray?logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-Estilos-gray?logo=css3&logoColor=black)
 
 ### Frameworks & Librerías
-
+![React](https://img.shields.io/badge/React-UI-gray?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-SSR-gray?logo=next.js&logoColor=black)
+![Express](https://img.shields.io/badge/Express-Routing-gray?logo=express&logoColor=black)
+![TypeORM](https://img.shields.io/badge/TypeORM-ORM-gray?logo=typeorm&logoColor=black)
+![React Query](https://img.shields.io/badge/React%20Query-Data-gray?logo=react-query&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-Auth-gray?logo=jsonwebtokens&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-gray?logo=tailwindcss&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-Bundler-gray?logo=vite&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-gray?logo=supabase&logoColor=black)
 
 ### Herramientas y Servicios
-
+![Vercel](https://img.shields.io/badge/Vercel-Deploy-gray?logo=vercel&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-Auth-gray?logo=supabase&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Code-gray?logo=github&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-gray?logo=postgresql&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-Tokens-gray?logo=jsonwebtokens&logoColor=black)
+![CORS](https://img.shields.io/badge/CORS-Access-gray?logo=shield&logoColor=black)
+![React Query](https://img.shields.io/badge/React%20Query-Data-gray?logo=react-query&logoColor=black)
 
 ### Bases de datos
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relacional-gray?logo=postgresql&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL%20+%20Auth-gray?logo=supabase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-Embedded-gray?logo=sqlite&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-gray?logo=mongodb&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-Cache-gray?logo=redis&logoColor=black)
 
 ---
 
