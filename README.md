@@ -9,15 +9,15 @@ Soy un desarrollador web apasionado por crear aplicaciones eficientes, accesible
 
 ## ![Wave Badge](https://img.shields.io/badge/Proyectos🚀-Destacados-gray?logo=wave&logoColor=black) Proyectos Destacados
 
-### 🧩 [Página de Actividades Favoritas](https://github.com/pi-rym/PM1-omarenriquecsn)  
+### ![Puzzle Badge](https://img.shields.io/badge/🧩-Modularidad-gray?logo=none&logoColor=black) [Página de Actividades Favoritas](https://github.com/pi-rym/PM1-omarenriquecsn)  
 Formulario dinámico que permite ingresar actividades, verlas en tarjetas, y eliminarlas fácilmente con solo hacer clic.  
 **Tecnologías:** HTML, CSS, JavaScript
 
-### 🎬 [Gestor de Películas](https://github.com/pi-rym/PM2-omarenriquecsn)  
+### ![Cine Badge](https://img.shields.io/badge/Cine🎬-Producción-gray?logo=clapperboard&logoColor=black) [Gestor de Películas](https://github.com/pi-rym/PM2-omarenriquecsn)  
 Consume una API para mostrar películas, permitir valoraciones, y agregar nuevas entradas a la base de datos.  
 **Stack:** React, Bootstrap, Node.js, jQuery, HTML/CSS
 
-### 🛒 [PujaYa Subastas](https://github.com/pujaya)  
+### ![Carrito Badge](https://img.shields.io/badge/🛒-Ecommerce-gray?logo=none&logoColor=black) [PujaYa Subastas](https://github.com/pujaya)  
 [![Proyecto Destacado](https://img.shields.io/badge/Destacado-Proyecto_FullStack-blue)](https://www.frontend-pujaya.vercel.app)
 
 Plataforma de subastas en tiempo real con autenticación, sistema de membresías, pagos con Stripe y panel administrativo.  
