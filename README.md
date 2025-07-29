@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" style="width:100%;" />
 
-# ![Wave Badge](https://img.shields.io/badge/Hola👋-Bienvenido-black?logo=wave&logoColor=white) ¡Hola! Soy Omar Contreras
+# ![Wave Badge](https://img.shields.io/badge/Hola👋-Bienvenido-gray?logo=wave&logoColor=black) ¡Hola! Soy Omar Contreras
 ![inicio](./assets/portada.png)
 
 Soy un desarrollador web apasionado por crear aplicaciones eficientes, accesibles y centradas en el usuario. Actualmente estoy cursando el segundo módulo del bootcamp de **SoyHenry**, fortaleciendo mis habilidades con **JavaScript**, **React**, y tecnologías backend como **Node.js**. Me encanta resolver bugs, mejorar flujos de trabajo, y explorar soluciones creativas que eleven la experiencia del usuario.
