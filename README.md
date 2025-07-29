@@ -51,7 +51,7 @@ Plataforma de subastas en tiempo real con autenticación, sistema de membresías
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarenriquecsn&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarenriquecsn&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarenriquecsn&layout=compact&theme=dark)
 
 ---
 
