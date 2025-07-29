@@ -32,6 +32,7 @@ Plataforma de subastas en tiempo real con autenticación, sistema de membresías
 
 
 ## 🛠️ Tecnologías y Herramientas
+![habilidades](./assets/Captura de pantalla 2025-07-28 175826.png) 
 
 ### Lenguajes
 
