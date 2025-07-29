@@ -18,7 +18,7 @@ Consume una API para mostrar películas, permitir valoraciones, y agregar nuevas
 **Stack:** React, Bootstrap, Node.js, jQuery, HTML/CSS
 
 ### 🛒 [PujaYa Subastas](https://github.com/pujaya)  
-[![Proyecto Destacado](https://img.shields.io/badge/Proyecto_Fullstack)](https://www.frontend-pujaya.vercel.app)
+[![Proyecto Destacado](https://img.shields.io/badge/Destacado-Proyecto-Fullstack_like-blue)](https://www.frontend-pujaya.vercel.app)
 
 Plataforma de subastas en tiempo real con autenticación, sistema de membresías, pagos con Stripe y panel administrativo.  
 **Stack:** Next.js, NestJS, PostgreSQL, Firebase, Cloudinary, Stripe, Pusher, MapLibre, WebSockets, Render, Neon, Vercel
